@@ -33,7 +33,7 @@ The filters were designed to improve the performance of the crossover network in
 - The **Chebyshev filter** offered a sharper cutoff, but at the cost of introducing ripples in the passband, which may affect sound quality.
 - Simulation results from **LTSpice** confirmed that the new filters significantly reduced the transition area, leading to improved sound fidelity.
 
-## Bode Plots of the Designed Filters
+## Bode Plots of the Previous System
 
 ![OldBodePlot](OldBodePlot.png)
 
