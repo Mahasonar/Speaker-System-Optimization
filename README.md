@@ -12,6 +12,8 @@ During a live music program, we identified a problem in the speaker system, caus
 - **Filter Comparison**: We compared two filter designs—**Butterworth** and **Chebyshev Type I**—to determine the best solution for reducing the transition area while maintaining sound fidelity.
 - **Simulation & Analysis**: Using **LTSpice**, we simulated the frequency responses of the designed filters and compared them with the old filter to observe the improvement.
 
+![System](System.png)
+
 ## Technologies Used
 
 - **LTSpice**: For simulating and analyzing the frequency responses of the filters.
@@ -30,6 +32,10 @@ The filters were designed to improve the performance of the crossover network in
 - The **Butterworth filter** was chosen for its flat passband, ensuring smooth frequency separation with minimal ripple.
 - The **Chebyshev filter** offered a sharper cutoff, but at the cost of introducing ripples in the passband, which may affect sound quality.
 - Simulation results from **LTSpice** confirmed that the new filters significantly reduced the transition area, leading to improved sound fidelity.
+
+## Bode Plots of the Designed Filters
+
+![OldBodePlot](OldBodePlot.png)
 
 ## Bode Plots of the Designed Filters
 
