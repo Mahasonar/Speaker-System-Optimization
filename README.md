@@ -31,6 +31,11 @@ The filters were designed to improve the performance of the crossover network in
 - The **Chebyshev filter** offered a sharper cutoff, but at the cost of introducing ripples in the passband, which may affect sound quality.
 - Simulation results from **LTSpice** confirmed that the new filters significantly reduced the transition area, leading to improved sound fidelity.
 
+## Bode Plots of the Designed Filters
+
+![Filter](Filter.png)
+
+
 ## Conclusion
 
 The implementation of new passive filters improved the sound quality of the speaker system by reducing distortion and enhancing frequency separation. This project demonstrated the practical application of filter design and circuit analysis in solving real-world audio issues.
