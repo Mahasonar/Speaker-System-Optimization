@@ -45,3 +45,9 @@ The filters were designed to improve the performance of the crossover network in
 ## Conclusion
 
 The implementation of new passive filters improved the sound quality of the speaker system by reducing distortion and enhancing frequency separation. This project demonstrated the practical application of filter design and circuit analysis in solving real-world audio issues.
+
+## Installation and Usage
+
+1. Clone this repository to your local machine:
+   ```bash
+          https://github.com/Mahasonar/Speaker-System-Optimization.git
